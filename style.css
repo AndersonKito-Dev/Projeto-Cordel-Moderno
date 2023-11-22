@@ -22,6 +22,7 @@ header {
     /* Reduzi o padding para evitar excessos */
     font-family: var(--fonte2);
     font-size: 2.5vw;
+    text-align: center;
     /* Use 'rem' para unidades de fonte responsivas */
     font-variant: small-caps;
     color: white;
